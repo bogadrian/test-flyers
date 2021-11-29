@@ -1,0 +1,822 @@
+id,title,start_date,end_date,is_published,retailer,category
+1,Dpiu Fresco,2019-04-26,2019-05-06,1,Dpiu,Discount
+2,Dal 2 al 15 maggio 2018,2019-05-02,2019-05-15,1,Diper Spesa,Iper e super
+3,Grandi marche in festa!,2019-05-02,2019-05-13,1,Ok Market,Iper e super
+4,Sconti al 50%,2019-05-02,2019-05-13,1,Conad,Iper e super
+5,Sconti al 50%,2019-05-02,2019-05-13,1,Conad,Iper e super
+6,Sconti al 50%,2019-05-02,2019-05-13,1,Conad,Iper e super
+7,-50% su tanti prodotti,2019-05-02,2019-05-14,1,Conad,Iper e super
+8,Tanti prodotti al 50%,2019-05-03,2019-05-16,1,Conad,Iper e super
+9,Tanti prodotti al 50%,2019-05-03,2019-05-16,1,Conad,Iper e super
+10,Sconti al 50%,2019-05-02,2019-05-13,1,Conad,Iper e super
+11,Tanti prodotti al 50%,2019-05-03,2019-05-16,1,Conad,Iper e super
+12,-50% su tanti prodotti,2019-05-02,2019-05-14,1,Conad,Iper e super
+13,3x2,2019-05-01,2019-05-14,1,Prix,Discount
+14,3x2,2019-05-01,2019-05-14,1,Prix,Discount
+15,3x2,2019-05-01,2019-05-14,1,Prix,Discount
+16,3x2,2019-05-01,2019-05-14,1,Prix,Discount
+17,3x2,2019-05-01,2019-05-14,1,Prix,Discount
+18,3x2,2019-05-01,2019-05-14,1,Prix,Discount
+19,3x2,2019-05-01,2019-05-14,1,Prix,Discount
+20,Una bella stagione di offerte,2019-05-04,2019-05-15,1,A&O,Iper e super
+21,Offertissime di primavera,2019-05-02,2019-05-14,1,A&O,Iper e super
+22,Grande concorso,2019-05-02,2019-05-13,1,MD,Discount
+23,Grande concorso,2019-05-02,2019-05-13,1,MD,Discount
+24,Grande concorso,2019-05-02,2019-05-13,1,MD,Discount
+25,Grande concorso,2019-05-02,2019-05-13,1,MD,Discount
+26,Grande concorso,2019-05-02,2019-05-13,1,MD,Discount
+27,Grande concorso,2019-05-02,2019-05-13,1,MD,Discount
+28,Grande concorso,2019-05-02,2019-05-13,1,MD,Discount
+29,Grande concorso,2019-05-02,2019-05-13,1,MD,Discount
+30,Grande concorso,2019-05-02,2019-05-13,1,MD,Discount
+31,I sottofreschi,2019-05-02,2019-05-13,1,MD,Discount
+32,Grande concorso,2019-05-02,2019-05-13,1,MD,Discount
+33,Grande concorso,2019-05-02,2019-05-13,1,MD,Discount
+34,Dal 2 al 13 maggio 2018,2019-05-02,2019-05-13,1,MD,Discount
+35,Dal 2 al 13 maggio 2018,2019-05-02,2019-05-13,1,MD,Discount
+36,Dal 2 al 13 maggio 2018,2019-05-02,2019-05-13,1,MD,Discount
+37,Dal 2 al 13 maggio 2018,2019-05-02,2019-05-13,1,MD,Discount
+38,Grande concorso,2019-05-02,2019-05-13,1,MD,Discount
+39,Riaprono completamente rinnovati,2019-05-02,2019-05-13,1,MD,Discount
+40,Riapre completamente rinnovato,2019-05-02,2019-05-13,1,MD,Discount
+41,La carica dei cuccioli,2019-05-03,2019-05-30,1,Pet Store Conad,Animali
+42,La carica dei cuccioli,2019-05-02,2019-05-29,1,Pet Store Conad,Animali
+43,La carica dei cuccioli,2019-05-03,2019-05-30,1,Pet Store Conad,Animali
+44,La carica dei cuccioli,2019-05-02,2019-05-28,1,Pet Store Conad,Animali
+45,La carica dei cuccioli,2019-05-03,2019-05-30,1,Pet Store Conad,Animali
+46,Mamma...che occasione!,2019-05-02,2019-05-20,1,LillaPois,Cura casa e corpo
+47,Mom's day,2019-05-04,2019-05-19,1,Ingroshop,Cura casa e corpo
+48,Mamma...che occasione!,2019-05-02,2019-05-20,1,LillaPois,Cura casa e corpo
+49,Sotto costo,2019-05-02,2019-05-14,1,Margherita Conad,Iper e super
+50,Sotto costo,2019-05-03,2019-05-16,1,Margherita Conad,Iper e super
+51,Sotto costo,2019-05-03,2019-05-16,1,Margherita Conad,Iper e super
+52,Sotto costo,2019-05-03,2019-05-16,1,Margherita Conad,Iper e super
+53,Mamma...che occasione!,2019-05-02,2019-05-20,1,LillaPois,Cura casa e corpo
+54,Prendi 2 paghi 1,2019-05-03,2019-05-13,1,Sidis,Iper e super
+55,Mamma mia che offerte!,2019-05-01,2019-05-31,1,Deter Shop,Cura casa e corpo
+56,Prendi 2 paghi 1,2019-05-03,2019-05-13,1,Dimeglio,Iper e super
+57,Il risparmio garantito!,2019-05-02,2019-05-12,1,PuntoDì,Discount
+58,Dal 2 al 13 maggio 2018,2019-05-02,2019-05-13,1,Nonna Isa,Iper e super
+59,Dal 2 al 13 maggio 2018,2019-05-02,2019-05-13,1,Nonna Isa,Iper e super
+60,Dal 2 al 13 maggio 2018,2019-05-02,2019-05-13,1,Nonna Isa,Iper e super
+61,1+1,2019-05-02,2019-05-13,1,Sidis,Iper e super
+62,1+1,2019-05-02,2019-05-13,1,Sidis,Iper e super
+63,Al costo,2019-05-02,2019-05-15,1,Pam,Iper e super
+64,Offerte al costo,2019-05-02,2019-05-15,1,Meta',Iper e super
+65,Sotto costo,2019-05-03,2019-05-12,1,Conad City,Iper e super
+66,Sotto costo,2019-05-03,2019-05-16,1,Conad City,Iper e super
+67,Sotto costo,2019-05-03,2019-05-12,1,Conad City,Iper e super
+68,Sotto costo,2019-05-03,2019-05-12,1,Conad City,Iper e super
+69,Sotto costo,2019-05-03,2019-05-12,1,Conad City,Iper e super
+70,Sotto costo,2019-05-02,2019-05-14,1,Conad City,Iper e super
+71,Sotto costo,2019-05-03,2019-05-12,1,Conad City,Iper e super
+72,Sotto costo,2019-05-03,2019-05-16,1,Conad City,Iper e super
+73,Sotto costo,2019-05-03,2019-05-12,1,Conad City,Iper e super
+74,Sotto costo,2019-05-03,2019-05-16,1,Conad City,Iper e super
+75,sconti,2019-04-23,2019-07-01,1,PerDormire,Arredamento
+76,Grandi marche al 50%,2019-05-03,2019-05-16,1,Conad Ipermercato,Iper e super
+77,Grandi marche al 50%,2019-05-03,2019-05-16,1,Conad Ipermercato,Iper e super
+78,Offerte Conad Ipermercato,2019-05-03,2019-05-16,1,Conad Ipermercato,Iper e super
+79,Offerte Conad Ipermercato,2019-05-03,2019-05-16,1,Conad Ipermercato,Iper e super
+80,Grandi marche al 50%,2019-05-03,2019-05-16,1,Conad Ipermercato,Iper e super
+81,Grandi marche al 50%,2019-05-03,2019-05-16,1,Conad Ipermercato,Iper e super
+82,Offerte Conad Ipermercato,2019-05-03,2019-05-16,1,Conad Ipermercato,Iper e super
+83,Offerte Conad Ipermercato,2019-05-03,2019-05-16,1,Conad Ipermercato,Iper e super
+84,Offerte Conad Ipermercato,2019-05-03,2019-05-16,1,Conad Ipermercato,Iper e super
+85,Grandi marche al 50%,2019-05-03,2019-05-16,1,Conad Ipermercato,Iper e super
+86,Grandi marche al 50%,2019-05-03,2019-05-16,1,Conad Ipermercato,Iper e super
+87,Offerte valide dal 2 al 12 maggio 2018,2019-05-02,2019-05-12,1,Qui Discount,Discount
+88,Sotto costo,2019-05-02,2019-05-13,1,Panorama,Iper e super
+89,Sotto costo,2019-05-02,2019-05-13,1,Panorama,Iper e super
+90,Dal 4 al 29 maggio,2019-05-04,2019-05-29,1,Kuadrifoglio,Cura casa e corpo
+91,Offerte Conad Superstore,2019-05-03,2019-05-16,1,Conad Superstore,Iper e super
+92,Sconti al 50%,2019-05-02,2019-05-13,1,Conad Superstore,Iper e super
+93,-50% su tanti prodotti,2019-05-02,2019-05-14,1,Conad Superstore,Iper e super
+94,Sconti al 50%,2019-05-02,2019-05-13,1,Conad Superstore,Iper e super
+95,Tanti prodotti al 50%,2019-05-03,2019-05-16,1,Conad Superstore,Iper e super
+96,Sconti al 50%,2019-05-02,2019-05-13,1,Conad Superstore,Iper e super
+97,Tanti prodotti al 50%,2019-05-03,2019-05-16,1,Conad Superstore,Iper e super
+98,Tanti prodotti al 50%,2019-05-03,2019-05-16,1,Conad Superstore,Iper e super
+99,Offerte Conad Superstore,2019-05-02,2019-05-13,1,Conad Superstore,Iper e super
+100,Offerte Conad Superstore,2019-05-03,2019-05-16,1,Conad Superstore,Iper e super
+101,Offerte Conad Superstore,2019-05-02,2019-05-13,1,Conad Superstore,Iper e super
+102,Offerte Conad Superstore,2019-05-03,2019-05-16,1,Conad Superstore,Iper e super
+103,Offerte Conad Superstore,2019-05-03,2019-05-16,1,Conad Superstore,Iper e super
+104,Offerte Conad Superstore,2019-05-03,2019-05-16,1,Conad Superstore,Iper e super
+105,Offerte speciali per te mamma,2019-05-03,2019-05-12,1,Proshop,Cura casa e corpo
+106,Super offerte per un mega risparmio,2019-05-02,2019-05-13,1,Gran Risparmio,Iper e super
+107,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+108,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+109,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+110,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+111,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+112,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+113,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+114,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+115,3x2,2019-05-03,2019-05-16,0,Coop,Iper e super
+116,3x2,2019-05-03,2019-05-16,0,Coop,Iper e super
+117,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+118,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+119,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+120,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+121,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+122,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+123,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+124,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+125,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+126,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+127,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+128,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+129,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+130,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+131,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+132,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+133,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+134,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+135,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+136,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+137,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+138,3x2,2019-05-03,2019-05-16,0,Coop,Iper e super
+139,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+140,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+141,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+142,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+143,3x2,2019-05-03,2019-05-16,0,Coop,Iper e super
+144,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+145,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+146,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+147,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+148,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+149,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+150,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+151,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+152,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+153,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+154,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+155,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+156,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+157,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+158,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+159,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+160,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+161,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+162,Dal 3 al 16 maggio,2019-05-03,2019-05-16,1,Coop,Iper e super
+163,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+164,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+165,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+166,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+167,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+168,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+169,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+170,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+171,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+172,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+173,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+174,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+175,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+176,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+177,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+178,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+179,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+180,Dal 3 al 16 maggio,2019-05-03,2019-05-16,1,Coop,Iper e super
+181,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+182,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+183,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+184,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+185,Promozione valida da oggi al 16 maggio 2018,2019-05-02,2019-05-16,1,Ferdico,Cura casa e corpo
+186,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+187,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+188,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+189,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+190,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+191,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+192,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+193,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+194,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+195,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+196,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+197,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+198,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+199,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+200,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+201,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+202,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+203,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+204,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+205,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+206,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+207,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+208,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+209,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+210,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+211,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+212,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+213,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+214,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+215,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+216,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+217,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+218,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+219,Territori.coop,2019-05-02,2019-05-31,1,Ipercoop,Iper e super
+220,maggio 2018,2019-05-02,2019-05-31,1,É Qui Parafarmacie,Salute e Benessere
+221,Dal 2 al 12 maggio,2019-05-02,2019-05-12,1,Ferdico,Cura casa e corpo
+222,Zoogarden in festa,2019-04-26,2019-05-27,1,IperVerde,Bricolage
+223,Vita in giardino,2019-04-26,2019-05-27,1,IperVerde,Bricolage
+224,Sempre piu' risparmio,2019-04-30,2019-05-13,1,Contè,Iper e super
+225,Prezzi bassi sempre,2019-05-03,2019-05-16,1,Emmepiù,Iper e super
+226,Freschi per passione,2019-05-03,2019-05-16,1,Si con Te,Iper e super
+227,Freschi per passione,2019-05-03,2019-05-16,1,Si con Te,Iper e super
+228,Sotto costo,2019-05-03,2019-05-12,1,Conad City,Iper e super
+229,Sotto costo,2019-05-03,2019-05-12,1,Conad City,Iper e super
+230,Sotto costo,2019-05-03,2019-05-12,1,Conad City,Iper e super
+231,1+1,2019-05-02,2019-05-15,1,Mersì,Iper e super
+232,Sconti fino al 50%,2019-05-03,2019-05-13,1,Conad,Iper e super
+233,Sconti fino al 50%,2019-05-03,2019-05-13,1,Conad,Iper e super
+234,Sconti fino al 50%,2019-05-03,2019-05-13,1,Conad,Iper e super
+235,Sconti fino al 50% CIA,2019-05-03,2019-05-13,1,Conad Superstore,Iper e super
+236,Sconti fino al 50% CIA,2019-05-03,2019-05-13,1,Conad Superstore,Iper e super
+237,Dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Coop,Iper e super
+238,Sconti fino al 50% CIA,2019-05-03,2019-05-13,1,Conad Superstore,Iper e super
+239,Mega risparmio,2019-05-03,2019-05-13,1,Conad Ipermercato,Iper e super
+240,Mega risparmio,2019-05-03,2019-05-13,1,Conad Ipermercato,Iper e super
+241,Mega risparmio,2019-05-03,2019-05-13,1,Conad Ipermercato,Iper e super
+242,Sotto costo,2019-05-02,2019-05-10,1,Simply Market,Iper e super
+243,Sotto costo,2019-05-02,2019-05-10,1,Simply Market,Iper e super
+244,Sotto costo,2019-05-02,2019-05-10,1,Punto Simply,Iper e super
+245,Sotto costo,2019-05-02,2019-05-10,1,Simply Market,Iper e super
+246,Sotto costo,2019-05-02,2019-05-10,1,Simply Market,Iper e super
+247,I giorni della convenienza,2019-05-02,2019-05-15,1,Unes,Iper e super
+248,Grandi sconti,2019-05-02,2019-05-15,1,Il Centro Superstore,Iper e super
+249,Risparmio & qualità,2019-05-03,2019-05-16,1,Famila,Iper e super
+250,Sconti 30% 40% 50%,2019-05-03,2019-05-16,1,Migross Supermercati & Market,Iper e super
+251,Le grandi offerte dal 1° al 31 maggio 2018,2019-05-01,2019-05-31,1,Grandi Marche Bio,Iper e super
+252,1+1 gratis,2019-05-03,2019-05-16,1,Migross Superstore,Iper e super
+253,"Tutto a 0,98 ...e tante altre offerte!",2019-05-02,2019-05-13,1,Mercatò Local,Iper e super
+254,"Tutto a 0,98 ...e tante altre offerte!",2019-05-02,2019-05-13,1,Maxisconto,Iper e super
+255,Festa della Mamma,2019-05-03,2019-06-03,0,Sirene Blu,Cura casa e corpo
+256,Battiamo i prezzi!,2019-05-02,2019-05-13,1,Bigstore,Iper e super
+257,Affari a partire da... 1€ 2€ 3€,2019-05-03,2019-05-16,1,Sermark,Iper e super
+258,Affari a partire da... 1€ 2€ 3€,2019-05-03,2019-05-16,1,Iperal,Iper e super
+259,Affari a partire da... 1€ 2€ 3€,2019-05-03,2019-05-16,1,Iperal,Iper e super
+260,Protagonisti del risparmio,2019-05-03,2019-05-13,1,Interspar,Iper e super
+261,Affari a partire da... 1€ 2€ 3€,2019-05-03,2019-05-16,1,Iperal,Iper e super
+262,Affari a partire da... 1€ 2€ 3€,2019-05-03,2019-05-16,1,Iperal,Iper e super
+263,A tutto risparmio,2019-05-04,2019-05-15,1,Eurospar,Iper e super
+264,Affari a partire da... 1€ 2€ 3€,2019-05-03,2019-05-16,1,Iperal,Iper e super
+265,Il più grande brico italiano professionale,2019-05-03,2019-05-20,0,Ottimax,Bricolage
+266,Protagonisti del risparmio,2019-05-03,2019-05-13,1,Interspar,Iper e super
+267,Affari a partire da... 1€ 2€ 3€,2019-05-03,2019-05-16,1,Iperal,Iper e super
+268,Affari a partire da... 1€ 2€ 3€,2019-05-03,2019-05-16,1,Iperal,Iper e super
+269,A tutto risparmio,2019-05-04,2019-05-15,1,Eurospar,Iper e super
+270,Affari a partire da... 1€ 2€ 3€,2019-05-03,2019-05-16,1,Iperal,Iper e super
+271,Affari a partire da... 1€ 2€ 3€,2019-05-03,2019-05-16,1,Iperal,Iper e super
+272,Nuova grande apertura Crema,2019-05-03,2019-05-23,1,Euronics,Elettronica
+273,Smart facile a tasso zero,2019-05-03,2019-05-23,1,Euronics,Elettronica
+274,Dall'1 al 31 maggio 2018,2019-05-01,2019-05-31,1,Galassia,Iper e super
+275,Regalo pazzesco!,2019-05-03,2019-05-23,1,Euronics,Elettronica
+276,Festa del giardino!,2019-05-03,2019-05-16,1,JYSK,Arredamento
+277,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,0,Trony,Elettronica
+278,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+279,Scopri le ultime offerte Trony,2019-05-03,2019-05-23,1,Trony,Elettronica
+280,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+281,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+282,Scopri le ultime offerte Trony,2019-05-03,2019-05-23,1,Trony,Elettronica
+283,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+284,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+285,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+286,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+287,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+288,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+289,"Igiene, bellezza e convenienza",2019-05-03,2019-05-19,1,BeautyTu,Cura casa e corpo
+290,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+291,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+292,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+293,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+294,Offerte valide dal 3 al 12 maggio 2018,2019-05-03,2019-05-12,1,Smoll,Cura casa e corpo
+295,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+296,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+297,Maxi formati,2018-05-03,2018-05-09,1,Penny Market,Discount
+298,Tempo di risparmio!,2019-04-30,2019-05-12,1,Kanguro,Iper e super
+299,Alta convenienza,2019-05-03,2019-05-16,1,Interspar,Iper e super
+300,Scopri le ultime offerte Trony,2019-05-03,2019-05-23,1,Trony,Elettronica
+301,Offerte valide dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Interspar,Iper e super
+302,Sottocosto,2019-05-03,2019-05-12,1,Oasi,Iper e super
+303,Fai risplendere la tua bellezza,2019-05-03,2019-05-16,1,Interspar,Iper e super
+304,Sottocosto,2019-05-03,2019-05-12,1,Oasi,Iper e super
+305,1 2 3 risparmio,2019-05-04,2019-05-17,1,Tigre,Iper e super
+306,Beeilen sie sich! Affrettati!,2019-05-03,2019-05-20,1,Interspar,Iper e super
+307,Affrettati!,2019-05-03,2019-05-20,1,Interspar,Iper e super
+308,1 2 3 risparmio,2019-05-04,2019-05-17,1,Tigre,Iper e super
+309,Apre Tigre,2019-05-09,2019-05-22,1,Tigre,Iper e super
+310,Maxi Risparmio,2019-05-03,2019-05-16,1,Interspar,Iper e super
+311,Maxi Risparmio,2019-05-03,2019-05-16,1,Interspar,Iper e super
+312,Maxi Risparmio,2019-05-03,2019-05-16,1,Interspar,Iper e super
+313,Maxi Risparmio,2019-05-03,2019-05-16,1,Interspar,Iper e super
+314,Maxi Risparmio,2019-05-03,2019-05-16,1,Interspar,Iper e super
+315,Sottocosto,2019-05-03,2019-05-16,1,Coop,Iper e super
+316,Missione risparmio,2019-05-03,2019-05-16,1,Coop,Iper e super
+317,Maxi Risparmio,2019-05-03,2019-05-16,1,Interspar,Iper e super
+318,Maxi Risparmio,2019-05-03,2019-05-16,1,Interspar,Iper e super
+319,Maxi Risparmio,2019-05-03,2019-05-16,1,Interspar,Iper e super
+320,Maxi Risparmio,2019-05-03,2019-05-16,1,Interspar,Iper e super
+321,Maxi Risparmio,2019-05-03,2019-05-16,1,Interspar,Iper e super
+322,Alta convenienza,2019-05-03,2019-05-16,1,Interspar,Iper e super
+323,Il grande festival dei vestiti,2019-05-10,2019-05-16,1,NKD,Sport e Moda
+324,Sottoprezzo,2019-05-02,2019-05-15,1,Famila,Iper e super
+325,Sottoprezzo,2019-05-02,2019-05-15,1,Famila,Iper e super
+326,Sottoprezzo,2019-05-02,2019-05-15,1,Famila,Iper e super
+327,Sottoprezzo,2019-05-02,2019-05-15,1,Famila,Iper e super
+328,Dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Famila,Iper e super
+329,Offertissime di primavera,2019-05-02,2019-05-15,1,Famila,Iper e super
+330,Dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Famila,Iper e super
+331,Dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Famila,Iper e super
+332,Iper Anniversario,2019-05-02,2019-05-10,1,Iperfamila,Iper e super
+333,Offerte CTS Supermercati,2019-05-02,2019-05-10,1,CTS Supermercati,Iper e super
+334,Dal 2 al 13 maggio 2018,2019-05-02,2019-05-13,1,Todis,Discount
+335,Dal 2 al 13 maggio,2019-05-02,2019-05-13,1,Todis,Discount
+336,Dal 2 al 13 maggio,2019-05-02,2019-05-13,1,Todis,Discount
+337,Dal 2 al 13 maggio,2019-05-02,2019-05-13,1,Todis,Discount
+338,Dal 2 al 13 maggio,2019-05-02,2019-05-13,1,Todis,Discount
+339,Dal 2 al 13 maggio,2019-05-02,2019-05-13,1,Todis,Discount
+340,Le offerte di Effepiù,2019-05-02,2019-05-10,1,Effepiù,Iper e super
+341,Sbocciano le offerte!,2019-05-02,2019-05-10,1,Idromarket,Iper e super
+342,Sbocciano le offerte!,2019-05-02,2019-05-10,1,Idromarket,Iper e super
+343,Partecipa al grande concorso,2019-05-02,2019-05-31,1,Scopri il concorso,Eventi speciali
+344,1+1 gratis,2019-05-02,2019-05-12,1,Sidis,Iper e super
+345,Partecipa al grande concorso,2019-05-02,2019-05-31,1,Scopri il concorso,Eventi speciali
+346,Partecipa al grande concorso,2019-05-02,2019-05-31,1,Scopri il concorso,Eventi speciali
+347,Partecipa al grande concorso,2019-05-02,2019-05-31,1,Scopri il concorso,Eventi speciali
+348,Grandi offerte,2019-05-02,2019-05-10,1,Il Castoro,Iper e super
+349,Grandi offerte,2019-05-02,2019-05-10,1,Il Castoro,Iper e super
+350,Grandi offerte,2019-05-02,2019-05-10,1,Il Castoro,Iper e super
+351,Grandi offerte,2019-05-02,2019-05-10,1,Il Castoro,Iper e super
+352,Partecipa al grande concorso,2019-05-02,2019-05-31,1,Scopri il concorso,Eventi speciali
+353,Partecipa al grande concorso,2019-05-02,2019-05-31,1,Scopri il concorso,Eventi speciali
+354,Partecipa al grande concorso,2019-05-02,2019-05-31,1,Scopri il concorso,Eventi speciali
+355,Il gusto del risparmio!,2019-05-02,2019-05-10,1,Ipercarni,Iper e super
+356,Il gusto del risparmio!,2019-05-02,2019-05-10,1,Ipercarni,Iper e super
+357,Il gusto del risparmio!,2019-05-02,2019-05-10,1,Ipercarni,Iper e super
+358,Partecipa al grande concorso,2019-05-02,2019-05-31,1,Scopri il concorso,Eventi speciali
+359,Offerte Pim,2019-05-02,2019-05-10,1,Pim,Iper e super
+360,Offerte Iperfamily,2018-05-02,2018-05-10,1,IperFamily,Iper e super
+361,Offerte Agorà,2018-05-02,2018-05-10,1,Agorà,Iper e super
+362,Il gusto del risparmio,2018-05-02,2018-05-10,1,Iper Triscount,Iper e super
+363,Il gusto del risparmio,2018-05-02,2018-05-10,1,Iper Triscount,Iper e super
+364,Partecipa al grande concorso,2019-05-02,2019-05-31,1,Scopri il concorso,Eventi speciali
+365,Partecipa al grande concorso,2019-05-02,2019-05-31,1,Scopri il concorso,Eventi speciali
+366,I salumi con il sorriso,2019-05-02,2019-06-06,1,Centro Carne,Iper e super
+367,Sconti fino al 50% Ama,2019-05-03,2019-05-16,1,Crai,Iper e super
+368,Sconti 30% 40% 50%,2019-05-02,2019-05-16,1,Sigma,Iper e super
+369,Sottocosto,2019-05-03,2019-05-15,1,D'Italy,Discount
+370,Sottocosto,2019-05-03,2019-05-15,1,Ecu,Discount
+371,Sconti fino al 50% Ama,2019-05-03,2019-05-16,1,Crai,Iper e super
+372,Offerte Maxipiù,2019-04-30,2019-05-13,1,Maxipiù,Iper e super
+373,Prezzi tagliati,2019-05-02,2019-05-13,1,Sigma,Iper e super
+374,Sconti 30% 40% 50%,2019-05-02,2019-05-16,1,Sigma,Iper e super
+375,Sconti 30% 40% 50%,2019-05-02,2019-05-16,1,Sigma,Iper e super
+376,Il grandi del risparmio,2018-05-02,2018-05-10,1,Pewex,Iper e super
+377,Offerte matte,2018-05-02,2018-05-10,1,Sacoph,Iper e super
+378,Offerte matte,2018-05-02,2018-05-10,1,Sacoph,Iper e super
+379,Una primavera piena di qualit,2018-05-02,2018-05-10,1,Top Supermercati,Iper e super
+380,Una primavera piena di qualit,2018-05-02,2018-05-10,1,Top Supermercati,Iper e super
+381,Sconti 30% 40% 50%,2019-05-02,2019-05-16,1,Superday,Iper e super
+382,Sconti 30% 40% 50%,2019-05-02,2019-05-16,1,Superday,Iper e super
+383,e-Bike e-Bonus,2019-05-04,2019-05-17,1,Sportler,Sport e Moda
+384,Sconti fino al 50%,2019-05-03,2019-05-13,1,Futura,Iper e super
+385,Sconti fino al 50%,2019-05-03,2019-05-13,1,Futura,Iper e super
+386,Sconti fino al 50%,2019-05-03,2019-05-13,1,Futura,Iper e super
+387,Maggio: le offerte fioriscono!,2019-05-02,2019-05-31,1,Ehiweb,Telefonia e Pay TV
+388,Eolo quando vuoi,2018-05-02,2018-05-08,1,Eolo,Telefonia e Pay TV
+389,Eolo easy,2019-05-02,2019-05-03,1,Eolo,Telefonia e Pay TV
+390,Eolo professional expert,2018-05-02,2018-05-08,1,Eolo,Telefonia e Pay TV
+391,Eolo professional plus,2019-05-02,2019-05-03,1,Eolo,Telefonia e Pay TV
+392,Eolo quando vuoi,2018-05-02,2018-05-08,1,Eolo,Telefonia e Pay TV
+393,Eolo professional smart,2018-05-02,2018-05-08,1,Eolo,Telefonia e Pay TV
+394,Eolo super,2018-05-02,2018-05-08,1,Eolo,Telefonia e Pay TV
+395,Offerte CuoreBio,2019-05-02,2019-05-29,1,CuoreBio,Iper e super
+396,Offerte Marketpiù,2019-04-30,2019-05-12,1,Marketpiù,Iper e super
+397,Sconti fino al 50% sulle grandi marche,2019-04-30,2019-05-13,1,Crai,Iper e super
+398,Sconti fino al 50% sulle grandi marche,2019-04-30,2019-05-13,1,Crai,Iper e super
+399,Sconti fino al 50% sulle grandi marche,2019-04-30,2019-05-13,1,Crai,Iper e super
+400,Sconti fino al 50% sulle grandi marche,2019-04-30,2019-05-13,1,Crai,Iper e super
+401,Sconti fino al 50% sulle grandi marche,2019-05-02,2019-05-13,1,Crai,Iper e super
+402,B come bio,2019-05-01,2019-06-03,1,Biobottega,Iper e super
+403,Offerte IperSigma,2019-05-03,2019-05-16,1,Sigma,Iper e super
+404,Abbinata vincente,2019-05-03,2019-05-23,1,Euronics,Elettronica
+405,Dal 3 al 15 maggio,2019-05-03,2019-05-15,1,L'Economy,Iper e super
+406,Sconti fino al 50% Ama,2019-05-03,2019-05-16,1,Crai,Iper e super
+407,Offerte Maxi Coal,2019-05-03,2019-05-16,1,Coal,Iper e super
+408,Offerte Sigma,2019-05-03,2019-05-16,1,Sigma,Iper e super
+409,Offerte Supermercato Coal,2019-05-03,2019-05-16,1,Coal,Iper e super
+410,Sconti fino al 50% Ama,2019-05-03,2019-05-16,1,Crai,Iper e super
+411,Offerte Superstore Coal,2019-05-03,2019-05-16,1,Coal,Iper e super
+412,Smart facile a tasso zero,2019-05-03,2019-05-23,1,Euronics,Elettronica
+413,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+414,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+415,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+416,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+417,Sconti fino al 50% Ama,2019-05-03,2019-05-16,1,Crai,Iper e super
+418,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+419,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+420,Sconti fino al 50% Ama,2019-05-03,2019-05-16,1,Crai,Iper e super
+421,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+422,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+423,Sotto costo,2019-05-03,2019-05-15,1,Italmark,Iper e super
+424,Sotto costo 46° anniversario,2019-05-03,2019-05-16,1,Il Gigante,Iper e super
+425,Cosi comodo la spesa fatta in casa,2019-05-03,2019-05-20,1,Il Gigante,Iper e super
+426,Prezzi bassi,2018-05-03,2018-05-09,1,Cadoro,Iper e super
+427,Dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Doc,Iper e super
+428,Dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Doc,Iper e super
+429,Dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Doc,Iper e super
+430,"Tante offerte a 0,50€ 1€ ",2019-05-03,2019-05-16,1,Simply Market,Iper e super
+431,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-13,1,Pellicano,Iper e super
+432,"Tante offerte a 0,50€ 1€ ",2019-05-03,2019-05-16,1,IperSimply,Iper e super
+433,1+1,2019-05-02,2019-05-13,1,Dimeglio,Iper e super
+434,1+1,2019-05-02,2019-05-13,1,Dimeglio,Iper e super
+435,1+1 gratis,2019-05-03,2019-05-15,1,Mio Mercato,Iper e super
+436,Gli specialisti delle offerte,2019-05-03,2019-05-16,1,Moderna Cash,Iper e super
+437,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+438,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+439,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+440,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+441,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+442,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+443,3 maggio 5 luglio 2018,2019-05-03,2019-06-05,1,+ Medical Parafarmacia,Salute e Benessere
+444,Milano Food Week dal 7 al 13 maggio,2019-05-03,2019-05-13,1,Milano Food Week,Eventi speciali
+445,Dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Coop,Iper e super
+446,Dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Coop,Iper e super
+447,Dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Coop,Iper e super
+448,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+449,Dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Coop,Iper e super
+450,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+451,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+452,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+453,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+454,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+455,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+456,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+457,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+458,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+459,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+460,Un risparmio imbattibile,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+461,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+462,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+463,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+464,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+465,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+466,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+467,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+468,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+469,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+470,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+471,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+472,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+473,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+474,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+475,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+476,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+477,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+478,Sottocosto,2019-05-03,2019-05-13,1,Carrefour Market,Iper e super
+479,Sconti fino al 50%,2019-05-03,2019-05-13,1,Crai,Iper e super
+480,"Maggio, sconti all'arrembaggio!",2019-05-03,2019-05-20,1,Brico ok,Bricolage
+481,Sconti fino al 50%,2019-05-03,2019-05-13,1,Crai,Iper e super
+482,Sottocosto,2019-05-03,2019-05-16,1,Coop,Iper e super
+483,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+484,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+485,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+486,Sconti fino al 50%,2019-05-03,2019-05-13,1,Crai,Iper e super
+487,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+488,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+489,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+490,Ti ricopre d'oro,2019-05-03,2019-05-13,1,Crai,Iper e super
+491,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+492,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+493,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+494,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+495,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+496,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+497,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+498,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+499,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+500,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+501,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+502,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+503,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+504,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+505,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+506,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+507,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+508,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+509,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+510,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+511,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+512,Conviene,2019-05-03,2019-05-16,1,Coop,Iper e super
+513,Conviene,2019-05-03,2019-05-16,1,Coop,Iper e super
+514,Tutto a..,2019-05-03,2019-05-16,1,Coop,Iper e super
+515,Conviene,2019-05-03,2019-05-16,1,Coop,Iper e super
+516,Tutto a..,2019-05-03,2019-05-16,1,Coop,Iper e super
+517,Conviene,2019-05-03,2019-05-16,1,Coop,Iper e super
+518,Conviene,2019-05-03,2019-05-16,1,Coop,Iper e super
+519,Tutto a..,2019-05-03,2019-05-16,1,Coop,Iper e super
+520,Conviene,2019-05-03,2019-05-16,1,Coop,Iper e super
+521,Conviene,2019-05-03,2019-05-16,1,Coop,Iper e super
+522,Tutto a..,2019-05-03,2019-05-16,1,Coop,Iper e super
+523,Tutto a..,2019-05-03,2019-05-16,1,Coop,Iper e super
+524,Conviene,2019-05-03,2019-05-16,1,Coop,Iper e super
+525,Tutto a..,2019-05-03,2019-05-16,1,Coop,Iper e super
+526,Conviene,2019-05-03,2019-05-16,1,Coop,Iper e super
+527,Conviene,2019-05-03,2019-05-16,1,Coop,Iper e super
+528,Conviene,2019-05-03,2019-05-16,1,Coop,Iper e super
+529,Tutto a..,2019-05-03,2019-05-16,1,Coop,Iper e super
+530,Tutto a..,2019-05-03,2019-05-16,1,Coop,Iper e super
+531,Tutto a..,2019-05-03,2019-05-16,1,Coop,Iper e super
+532,Tutto a..,2019-05-03,2019-05-16,1,Coop,Iper e super
+533,Tutto a..,2019-05-03,2019-05-16,1,Coop,Iper e super
+534,Tutto a..,2019-05-03,2019-05-16,1,Coop,Iper e super
+535,Dal 3 al 16 maggio,2019-05-03,2019-05-16,1,Coop,Iper e super
+536,Conviene,2019-05-03,2019-05-15,1,Coop,Iper e super
+537,Conviene,2019-05-03,2019-05-15,1,Coop,Iper e super
+538,Offerte Supermac,2019-05-03,2019-05-16,1,Supermac,Iper e super
+539,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+540,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+541,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+542,Offerte dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Spak,Iper e super
+543,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+544,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+545,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+546,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+547,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+548,Sconti fino al 50%,2019-05-03,2019-05-16,1,Iperpan,Iper e super
+549,La forza del risparmio,2018-05-03,2018-05-10,1,MA Supermercati,Iper e super
+550,La forza del risparmio,2018-05-03,2018-05-10,1,MA Supermercati,Iper e super
+551,La forza del risparmio,2018-05-03,2018-05-10,1,MA Supermercati,Iper e super
+552,La forza del risparmio,2018-05-03,2018-05-10,1,MA Supermercati,Iper e super
+553,La forza del risparmio,2018-05-03,2018-05-10,1,MA Supermercati,Iper e super
+554,La forza del risparmio,2018-05-03,2018-05-10,1,MA Supermercati,Iper e super
+555,Sconti fino al 50%,2019-05-03,2019-05-16,1,Superpan,Iper e super
+556,Offerta valida dal 30 aprile al 13 maggio 2018,2019-04-30,2019-05-13,1,Zona,Iper e super
+557,Offerta valida dal 30 aprile al 13 maggio 2018,2019-04-30,2019-05-13,1,Zona,Iper e super
+558,Offerta valida dal 30 aprile al 13 maggio 2018,2019-04-30,2019-05-13,1,Zona,Iper e super
+559,Una spesa incredibilmente conveniente,2019-05-03,2019-05-16,1,Premium Supermercati,Iper e super
+560,Grandi marche al 50%,2019-05-03,2019-05-16,1,Esselunga,Iper e super
+561,Grandi marche al 50%,2019-05-03,2019-05-16,1,Esselunga,Iper e super
+562,Grandi marche al 50%,2019-05-03,2019-05-16,1,Esselunga,Iper e super
+563,Grandi marche al 50%,2019-05-03,2019-05-16,1,Esselunga,Iper e super
+564,Grandi marche al 50%,2019-05-03,2019-05-16,1,Esselunga,Iper e super
+565,Grandi marche al 50%,2019-05-03,2019-05-16,1,Esselunga,Iper e super
+566,Convenienza e benessere,2019-05-03,2019-05-16,1,Extra Supermercati,Iper e super
+567,Sottoprezzi,2019-05-07,2019-05-13,1,Lidl,Discount
+568,Speciale Sardegna,2019-05-03,2019-05-16,1,Despar,Iper e super
+569,Speciale Sardegna,2019-05-03,2019-05-16,1,Eurospar,Iper e super
+570,Mangia bene vivi meglio!,2019-05-03,2019-05-13,1,Prezzemolo & Vitale,Iper e super
+571,100% rimborso sul 2 pezzo,2019-05-03,2019-05-15,1,Carrefour Express,Iper e super
+572,100% rimborso sul 2 pezzo,2019-05-03,2019-05-15,1,Carrefour Express,Iper e super
+573,100% rimborso sul 2 pezzo,2019-05-03,2019-05-15,1,Carrefour Express,Iper e super
+574,100% rimborso sul 2 pezzo,2019-05-03,2019-05-15,1,Carrefour Express,Iper e super
+575,100% rimborso sul 2 pezzo,2019-05-03,2019-05-15,1,Carrefour Express,Iper e super
+576,100% rimborso sul 2 pezzo,2019-05-03,2019-05-15,1,Carrefour Express,Iper e super
+577,100% rimborso sul 2 pezzo,2019-05-03,2019-05-15,1,Carrefour Express,Iper e super
+578,100% rimborso sul 2 pezzo,2019-05-03,2019-05-15,1,Carrefour Express,Iper e super
+579,100% rimborso sul 2 pezzo,2019-05-03,2019-05-15,1,Carrefour Express,Iper e super
+580,100% rimborso sul 2 pezzo,2019-05-03,2019-05-15,1,Carrefour Express,Iper e super
+581,100% rimborso sul 2 pezzo,2019-05-03,2019-05-15,1,Carrefour Express,Iper e super
+582,100% rimborso sul 2 pezzo,2019-05-03,2019-05-15,1,Carrefour Express,Iper e super
+583,Sconti fino al 50%,2019-05-03,2019-05-15,1,Madis,Iper e super
+584,Sconti fino al 50%,2019-05-03,2019-05-15,1,Madis,Iper e super
+585,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+586,Offerte Crai Extra,2019-05-03,2019-05-16,1,Crai,Iper e super
+587,Sconti fino al 50%,2019-05-03,2019-05-16,1,Emi,Iper e super
+588,Sconti fino al 50%,2019-05-03,2019-05-16,1,Emi,Iper e super
+589,Sconti fino al 50%,2019-05-03,2019-05-16,1,Emi,Iper e super
+590,Sconti fino al 50%,2019-05-03,2019-05-16,1,Emi,Iper e super
+591,Sconti fino al 50%,2019-05-03,2019-05-16,1,Emi,Iper e super
+592,Offerte Crai Extra,2019-05-03,2019-05-16,1,Crai,Iper e super
+593,Maxi convenienza,2019-05-03,2019-05-16,1,Hardis,Discount
+594,Offerte Crai Extra,2019-05-03,2019-05-16,1,Crai,Iper e super
+595,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-15,1,Crai,Iper e super
+596,Prezzi bassi,2019-05-03,2019-05-16,1,Alì e Alìper,Iper e super
+597,Grandi sconti,2019-05-03,2019-05-16,1,Crai,Iper e super
+598,Grandi sconti,2019-05-03,2019-05-16,1,Crai,Iper e super
+599,Grandi sconti,2019-05-03,2019-05-16,1,Crai,Iper e super
+600,Grabdi sconti,2019-05-03,2019-05-16,1,Crai,Iper e super
+601,Grandi sconti,2019-05-03,2019-05-16,1,Crai,Iper e super
+602,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+603,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+604,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+605,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+606,Offerte Crai Simpatia,2019-05-03,2019-05-16,1,Crai,Iper e super
+607,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+608,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+609,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+610,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+611,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+612,Festa della convenienza,2019-05-03,2019-05-16,1,Crai,Iper e super
+613,Taglia la spesa!,2019-05-03,2019-05-16,1,Sisa,Iper e super
+614,Da Crai atterra la convenienza,2019-05-03,2019-05-16,1,Crai,Iper e super
+615,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+616,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+617,Taglia la spesa!,2019-05-03,2019-05-16,1,Sisa,Iper e super
+618,Taglia la spesa!,2019-05-03,2019-05-16,1,Sisa,Iper e super
+619,Offerte Crai Extra,2019-05-03,2019-05-16,1,Crai,Iper e super
+620,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+621,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,IperBon Crai,Iper e super
+622,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,IperBon Crai,Iper e super
+623,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+624,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+625,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+626,Da Trony prendi 3 paghi 2,2019-05-03,2019-05-23,1,Trony,Elettronica
+627,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+628,Sotto costo,2019-05-03,2019-05-23,1,Euronics,Elettronica
+629,Il risparmio che frutta,2019-05-02,2019-05-13,1,Fortè Hard Discount,Discount
+630,Sconti fino al 50% sulle grandi marche,2019-05-03,2019-05-16,1,Crai,Iper e super
+631,Il vero risparmio,2019-05-03,2019-05-16,1,Centro Commerciale Discount,Discount
+632,Dal 3 al 30 maggio 2018,2019-05-03,2019-05-30,1,Picard,Iper e super
+633,Il tuo scudo multi-azione,2019-05-03,2019-05-23,1,Yves Rocher,Salute e Benessere
+634,Sotto costo sui freschissimi!,2019-05-03,2019-05-16,1,Despar,Iper e super
+635,Sotto costo sui freschissimi!,2019-05-03,2019-05-16,1,Eurospar,Iper e super
+636,Sotto costo sui freschissimi!,2019-05-03,2019-05-16,1,Interspar,Iper e super
+637,Offerte da 3 al 16 maggio,2019-05-03,2019-05-16,1,Super Risparmioso,Iper e super
+638,"Tutto a 1€, 2€, 3€",2019-05-03,2019-05-16,1,Gran Mercato,Iper e super
+639,Speciale inaugurazione piscine / piante / casa,2019-05-04,2019-05-20,1,Il Faidate Guercio,Bricolage
+640,La convenienza è di casa!,2019-05-03,2019-05-23,1,Grancasa,Arredamento
+641,Maggio,2019-05-07,2019-06-03,1,Mondadori,Elettronica
+642,Dura la vita da mamma!,2019-05-03,2019-05-27,1,Caddy's,Cura casa e corpo
+643,1+1,2019-04-30,2019-05-13,1,Dimeglio,Iper e super
+644,Voglia di primavera,2019-05-03,2019-05-28,1,Basko,Iper e super
+645,Diamoci un taglio!,2019-05-03,2019-05-31,1,TuttoGiardino,Bricolage
+646,Speciale benessere,2019-05-03,2019-05-14,1,Basko,Iper e super
+647,Diamoci un taglio!,2019-05-03,2019-05-31,1,TuttoGiardino,Bricolage
+648,Sottocosto,2019-05-03,2019-05-14,1,Basko,Iper e super
+649,Diamoci un taglio!,2019-05-03,2019-05-31,1,TuttoGiardino,Bricolage
+650,Dal 30 aprile al 14 maggio,2019-04-30,2019-05-14,1,Sidis,Iper e super
+651,Il colore del risparmio,2019-05-03,2019-05-20,1,Azzurro Convenienza,Cura casa e corpo
+652,Il tuo Simply Market diventa Auchan supermercato,2018-05-02,2018-05-10,1,Auchan,Iper e super
+653,Sottocosto,2018-04-26,2018-05-09,1,Carrefour Market,Iper e super
+654,1+1,2019-05-03,2019-05-12,1,Punto Simply,Iper e super
+655,Grandi marche fino al 50%,2019-05-03,2019-05-16,1,Carrefour Ipermercati,Iper e super
+656,Grandi marche fino al 50%,2019-05-03,2019-05-16,1,Carrefour Market,Iper e super
+657,Offerte valide dal 3 al 16 maggio,2019-05-03,2019-05-16,1,IperSimply,Iper e super
+658,Offerte valide dal 3 al 16 maggio,2019-05-03,2019-05-16,1,IperSimply,Iper e super
+659,Offerte valide dal 3 al 16 maggio,2019-05-03,2019-05-16,1,IperSimply,Iper e super
+660,Offerte valide dal 3 al 16 maggio,2019-05-03,2019-05-16,1,IperSimply,Iper e super
+661,Sotto costo,2019-05-10,2019-05-23,1,Ipercoop,Iper e super
+662,Happy sconti a tasso zero!,2019-05-04,2019-05-17,1,Unieuro,Elettronica
+663,Sconti a tasso zero,2019-05-03,2019-05-23,1,Euronics,Elettronica
+664,"Cara mamma, ti voglio bene!",2019-05-03,2019-05-27,1,Caddy's Maxistore,Cura casa e corpo
+665,New collection spring summer 2018,2019-05-03,2019-09-20,1,Foster,Sport e Moda
+666,"Cara mamma, ti voglio bene!",2019-05-03,2019-05-27,1,Caddy's Maxistore,Cura casa e corpo
+667,"Cara mamma, ti voglio bene!",2019-05-03,2019-05-27,1,Determarket,Cura casa e corpo
+668,Hobby & casa,2019-05-03,2019-06-02,1,Hobby & Legno,Bricolage
+669,Arredo & design,2019-05-03,2019-06-02,1,Hobby & Legno,Bricolage
+670,Profumo di sconti,2019-05-03,2019-05-18,1,Cipi Cash&Carry,Iper e super
+671,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+672,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+673,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+674,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+675,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+676,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+677,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+678,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+679,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+680,Obiettivo convenienza,2019-05-03,2019-05-16,1,Coop,Iper e super
+681,Offerte dal 3 al 16 maggio,2019-05-03,2019-05-16,1,Coop,Iper e super
+682,Offerte dal 3 al 16 maggio,2019-05-03,2019-05-16,1,Coop,Iper e super
+683,Offerte dal 3 al 16 maggio,2019-05-03,2019-05-16,1,Coop,Iper e super
+684,Offerte dal 3 al 16 maggio,2019-05-03,2019-05-16,1,Coop,Iper e super
+685,Voglia di freschezza!,2019-05-03,2019-05-16,1,Palmarket,Iper e super
+686,1+1,2019-05-03,2019-05-16,1,Elite,Iper e super
+687,Rinnovo reparto cucine,2019-05-03,2019-05-31,1,Mercatone Germanvox,Arredamento
+688,Offerte dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Maxì,Iper e super
+689,Offerte dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Maxì,Iper e super
+690,Offerte dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Maxì,Iper e super
+691,"Sorridi, è sottocosto.",2019-05-03,2019-05-16,1,Sigma,Iper e super
+692,Prezzi tagliati,2019-05-03,2019-05-16,1,Sigma,Iper e super
+693,"Sorridi, è sottocosto.",2019-05-03,2019-05-16,1,Sigma,Iper e super
+694,Prezzi tagliati,2019-05-03,2019-05-16,1,Sigma,Iper e super
+695,Sconti fino al 40%,2019-05-03,2019-05-16,1,Famila,Iper e super
+696,1+1,2019-05-03,2019-05-16,1,Coal,Iper e super
+697,Sconti fino al 40%,2019-05-03,2019-05-16,1,Famila,Iper e super
+698,Offerte dal 3 al 27 maggio 2018,2019-05-03,2019-05-27,1,Elite,Iper e super
+699,Fai da te,2019-05-03,2019-05-16,1,Iperal,Iper e super
+700,Fino al 16/05,2019-05-03,2019-05-16,1,PosteMobile,Telefonia e Pay TV
+701,Offerte valide dal 3 al 16 maggio 2018,2019-05-03,2019-05-16,1,Despar,Iper e super
+702,Incentiviamo,2019-05-03,2019-05-23,1,Euronics,Elettronica
+703,Sconti fino al 40%,2019-05-03,2019-05-16,1,Famila Superstore,Iper e super
+704,Al costo,2019-04-30,2019-05-12,1,Pam,Iper e super
+705,Al costo,2019-04-30,2019-05-12,1,Meta',Iper e super
+706,Offerte Ipercoop,2019-05-04,2019-05-14,1,Ipercoop,Iper e super
+707,Offerte incredibili,2019-05-04,2019-05-14,1,Despar,Iper e super
+708,Dal 4 al 14 maggio 2018,2019-05-04,2019-05-14,1,Despar,Iper e super
+709,Offerte incredibili,2019-05-04,2019-05-14,1,Despar,Iper e super
+710,Dal 4 al 14 maggio 2018,2019-05-04,2019-05-14,1,Despar,Iper e super
+711,Dal 4 al 14 maggio 2018,2019-05-04,2019-05-14,1,Despar,Iper e super
+712,Gran risparmio,2019-05-04,2019-05-14,1,Non Solo Cash,Iper e super
+713,Fresh mania,2019-05-04,2019-05-20,1,MediaWorld,Elettronica
+714,Gran risparmio,2019-05-04,2019-05-14,1,Iper Super Conveniente,Iper e super
+715,Fresh mania,2019-05-04,2019-05-20,0,MediaWorld,Elettronica
+716,Dal 4 al 14 maggio 2018,2019-05-04,2019-05-14,1,R7 Supermercati,Iper e super
+717,Promozione dal 4 al 15 maggio 2018,2019-05-04,2019-05-15,1,Nonna Isa,Iper e super
+718,Promozione dal 4 al 15 maggio 2018,2019-05-04,2019-05-15,1,Nonna Isa,Iper e super
+719,Promozione dal 4 al 15 maggio 2018,2019-05-04,2019-05-15,1,Nonna Isa,Iper e super
+720,Promozione dal 4 al 15 maggio 2018,2019-05-04,2019-05-15,1,Nonna Isa,Iper e super
+721,Promozione dal 4 al 15 maggio 2018,2019-05-04,2019-05-15,1,Nonna Isa,Iper e super
+722,Le grandi offerte di maggio,2019-05-02,2019-05-29,1,NaturaSì,Iper e super
+723,Sconti fino al 50% sulle grandi marche,2019-05-04,2019-05-17,1,Crai,Iper e super
+724,A tutta griglia,2019-05-07,2019-05-13,1,Aldi,Discount
+725,Risparmio fino al 50%,2019-05-03,2019-05-16,1,A&O,Iper e super
+726,Tanti prodotti a €0.99,2019-05-03,2019-05-14,1,A&O,Iper e super
+727,maggio 2018,2019-05-04,2019-05-31,1,Farmacia Clemente,Salute e Benessere
+728,La qualità di una spesa felice,2019-05-04,2019-05-16,1,Mio Market,Iper e super
+729,Il nostro impegno ti garantisce sempre più convenienza,2019-05-03,2019-05-13,1,Al Discount,Discount
+730,Bellezza e benessere,2019-05-03,2019-05-23,1,Italmark,Iper e super
+731,Eolo Easy,2018-05-04,2018-05-08,1,Eolo,Telefonia e Pay TV
+732,Eolo professional plus,2018-05-04,2018-05-08,1,Eolo,Telefonia e Pay TV
+733,Doppio sconto,2019-05-07,2019-06-03,1,MobyDick,Animali
+734,Cine menu,2019-05-04,2019-06-04,1,Wiener Haus,Ristoranti
+735,Mobile freedom,2019-05-04,2019-05-15,1,Fastweb,Elettronica
+736,Euro mania,2019-05-04,2019-06-04,1,100 Montaditos,Ristoranti
+737,Kena facile,2019-05-04,2019-05-31,1,Kena Mobile,Telefonia e Pay TV
+738,Tutto il buono in tavola,2019-05-04,2019-05-14,1,Amodio,Iper e super
+739,e-Bike e-Bonus,2019-05-04,2019-05-17,1,Sportler,Sport e Moda
+740,Piccole e medie imprese,2019-05-04,2019-05-31,1,Linkem,Telefonia e Pay TV
+741,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+742,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+743,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+744,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+745,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+746,TIM Young senza limiti Web Edition,2018-05-04,2018-05-10,1,TIM,Elettronica
+747,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+748,Entra in TIM,2018-05-04,2018-05-10,1,TIM,Elettronica
+749,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+750,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+751,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+752,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+753,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+754,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+755,Crazy day,2019-05-04,2019-05-04,1,Wind,Elettronica
+756,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+757,Prezzo bloccato,2019-05-04,2019-05-31,1,Wind,Elettronica
+758,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+759,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+760,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+761,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+762,depubblicato,2019-05-04,2019-07-31,0,Bricoman,Bricolage
+763,Dall' 11 al 31 maggio 2018,2019-05-11,2019-05-31,1,Sinergy,Elettronica
+764,Mobile open 6 GB,2018-05-04,2018-05-10,1,Tiscali Casa,Telefonia e Pay TV
+765,Ultra fibra giga affari,2018-05-04,2018-05-10,1,Tiscali Casa,Telefonia e Pay TV
+766,Mobile open 6 Gb affari,2018-05-04,2018-05-10,1,Tiscali Casa,Telefonia e Pay TV
+767,Gli specialissimi!,2019-05-08,2019-05-15,1,Conad,Iper e super
+768,Gli specialissimi!,2019-05-08,2019-05-15,1,Conad City,Iper e super
+769,Gli specialissimi!,2019-05-08,2019-05-15,1,Conad Superstore,Iper e super
+770,Gli specialissimi!,2019-05-08,2019-05-15,1,Conad Ipermercato,Iper e super
+771,Gli specialissimi!,2019-05-08,2019-05-15,1,Margherita Conad,Iper e super
+772,Festa della Mamma,2019-05-07,2019-05-13,1,America Graffiti,Ristoranti
+773,"Di mamma ce n'è una sola di offerte, centinaia",2019-05-04,2019-05-31,1,Iperbimbo,Infanzia e giochi
+774,A tutta convenienza,2019-05-04,2019-05-14,1,Decò,Iper e super
+775,Prendi 2 paghi 1,2019-05-04,2019-05-14,1,Decò,Iper e super
+776,Prendi 2 paghi 1,2019-05-04,2019-05-14,1,Decò,Iper e super
+777,Che prezzo!,2019-05-04,2019-05-14,1,Decò,Iper e super
+778,"Abbaimo alzato la qualità, abbasando i prezzi!",2019-05-04,2019-05-14,1,Decò,Iper e super
+779,Per te solo qualità e gusto,2019-05-04,2019-05-14,1,Decò,Iper e super
+780,"Torna maggio, torna l'amore",2019-05-05,2019-05-27,1,Idea Bellezza,Cura casa e corpo
+781,Promozione valide dal 5 al 27 maggio 2018,2019-05-05,2019-05-27,1,Idea Bellezza,Cura casa e corpo
+782,Entra in scena la convenienza,2019-03-02,2019-05-14,1,Decò,Iper e super
+783,Entra in scena la convenienza,2019-05-04,2019-05-14,1,Decò,Iper e super
+784,Entra in scena la convenienza,2019-05-04,2019-05-14,1,Decò,Iper e super
+785,Entra in scena la convenienza,2019-05-04,2019-05-14,1,Decò,Iper e super
+786,Entra in scena la convenienza,2019-05-04,2019-05-14,1,Decò,Iper e super
+787,Sottocosto,2019-05-03,2019-05-16,1,Coop,Iper e super
+788,Grande convenienza!,2019-05-04,2019-05-14,1,Sigma,Iper e super
+789,Grande convenienza!,2019-05-04,2019-05-14,1,Sigma,Iper e super
+790,Gran risparmio!,2019-05-04,2019-05-14,1,Sigma,Iper e super
+791,Grande convenienza!,2019-05-04,2019-05-14,1,Sigma,Iper e super
+792,Sconti fino al 50%,2019-05-04,2019-05-14,1,Sidis,Iper e super
+793,S2S - Offerte Super Risparmioso,2019-05-04,2019-05-16,1,Super Risparmioso,Iper e super
+794,Sconti fino al 50%,2019-05-04,2019-05-14,1,Sidis,Iper e super
+795,Sconti fino al 50%,2019-05-04,2019-05-14,1,Qui Conviene,Iper e super
+796,Sconti fino al 50%,2019-05-04,2019-05-14,1,Sidis,Iper e super
+797,Sconti fino al 50%,2019-05-04,2019-05-14,1,Qui Conviene,Iper e super
+798,Sconti fino al 50%,2019-05-04,2019-05-14,1,Sidis,Iper e super
+799,Sconti fino al 50%,2019-05-04,2019-05-14,1,InGrosso,Iper e super
+800,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+801,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+802,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+803,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+804,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+805,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+806,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+807,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+808,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+809,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+810,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+811,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+812,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+813,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+814,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+815,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+816,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+817,"Tutto per costruire, ristrutturare e fare manutenzione!",2019-05-04,2019-07-31,1,Bricoman,Bricolage
+818,Maggio/giugno,2019-05-04,2019-06-30,1,+Bene,Salute e Benessere
+819,Nuova collezione kids e pets,2019-05-01,2019-05-31,1,Divani & Divani,Arredamento
+820,Aa OFFERTE,2019-05-04,2019-05-31,0,GrandVision,Salute e Benessere
+821,Offerte valide fino al 19 maggio,2019-05-04,2019-05-19,1,Angel Mercatone,Cura casa e corpo
